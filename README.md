@@ -1,4 +1,4 @@
-![logo](https://github.com/Mamun097/Mamun097/blob/f27c5c4de4fcf2ae4c10b87bcef4fc6e06b4c7ff/Modern%20Minimal%20Technology%20Background%20Banner.png)
+![logo](https://github.com/Mamun097/Mamun097/blob/d1bf6b33237a7fba6000e5d9a48d6d2e91cb0600/banner.png)
 
 <h1 align="center">Hi 👋, I'm Mamun Munshi</h1>
 <h3 align="center">Code Connoisseur: Crafting Digital Solutions with Precision</h3>
