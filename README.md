@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I am a part-time student, and a full-time DJ😉**
 
-<h3 align="left">Connect with me</h3>
+## 🌐 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/mamun-munshi-905248239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mamun munshi" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mamunur.rahman.055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mamunur rahman" height="30" width="40" /></a>
@@ -39,7 +39,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p><hr>
 
-<h3 align="left">Github Overview</h3>
+# 📊 Github Overview
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamun097&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </div>
@@ -50,8 +50,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mamun097&theme=radical&hide_border=false" alt="GitHub Streak Stats">
 </div>
 <hr>
-
-
 
 ### 🔝 Top Contributed Repo
 <div align="center">
