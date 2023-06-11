@@ -14,6 +14,7 @@
 - 📫 How to reach me **mamunmunshi055@gmail.com**
 
 - ⚡ Fun fact **I am a part-time student, and a full-time DJ😉**
+<hr>
 
 ## 🌐 Connect With Me
 <p align="left">
