@@ -40,20 +40,17 @@
 </p><hr>
 
 <h3 align="left">Github Overview</h3>
-<p align="center"> 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamun097&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mamun097&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+</div>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mamun097&theme=radical&hide_border=false" alt="GitHub Streak Stats">
+</div>
+<hr>
 
-</p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mamun097&show_icons=true&locale=en" alt="mamun097" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mamun097&" alt="mamun097" /> </p> <hr>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mamun097&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mamun097&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mamun097&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Mamun097&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
