@@ -7,13 +7,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamun097&label=Profile%20views&color=0e75b6&style=flat" alt="mamun097" /> </p>
 
+- 📖 Right now I'm studying in 4th year int **CSE, BUET**
+
 - 🌱 I’m currently learning **Spring Boot, React & MySQL**
 
 - 💬 Ask me about **Java & C++**
 
 - 📫 How to reach me **mamunmunshi055@gmail.com**
 
-- ⚡ Fun fact **I am a part-time student, and a full-time DJ😉**
 <hr>
 
 ## 🌐 Connect With Me
