@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamun097&label=Profile%20views&color=0e75b6&style=flat" alt="mamun097" /> </p>
 
-- 📖 Right now I'm studying in 4th year int **CSE, BUET**
+- 📖 Right now I'm studying at 4th year in **CSE, BUET**
 
 - 🌱 I’m currently learning **Spring Boot, React & MySQL**
 
