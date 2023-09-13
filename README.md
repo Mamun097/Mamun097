@@ -9,7 +9,7 @@
 
 - 📖 Right now I'm studying at 4th year in **CSE, BUET**
 
-- 🌱 I’m currently learning **Spring Boot, React & MySQL**
+- 🌱 I’m currently learning **Full Stack Developing**
 
 - 💬 Ask me about **Java & C++**
 
