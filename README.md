@@ -1,17 +1,17 @@
-![logo](https://github.com/Mamun097/Mamun097/blob/main/1.png)
+![logo](https://github.com/Mamun097/Mamun097/blob/main/banner.png)
 
 <h1 align="center">Hello there 👋, I'm Mamun Munshi</h1>
 <h3 align="center">Code Connoisseur: Crafting Digital Solutions with Precision</h3>
 
-<img align="right" width="340" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<img align="right" width="320" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamun097&label=Profile%20views&color=0e75b6&style=flat" alt="mamun097" /> </p>
 
-- 📖 Right now I'm studying at 4th year in **CSE, BUET**
+- 📖 Graduated from **CSE, BUET**
 
 - 🌱 I’m currently learning **Full Stack Developing**
 
-- 💬 Ask me about **Java & C++**
+- 💬 Ask me about **C++ & Java**
 
 - 📫 How to reach me **mamunmunshi055@gmail.com**
 
