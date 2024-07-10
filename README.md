@@ -1,4 +1,4 @@
-![logo](https://github.com/Mamun097/Mamun097/blob/main/banner.png)
+![logo](https://github.com/Mamun097/Mamun097/blob/main/Black%20%26%20Yellow%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hello there 👋, I'm Mamun Munshi</h1>
 <h3 align="center">Code Connoisseur: Crafting Digital Solutions with Precision</h3>
